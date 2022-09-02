@@ -1,0 +1,104 @@
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+#container{
+    width:1000px;
+    height: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid grey;
+}
+#rectangle1{
+    float: left;
+    width: 260px;
+    height: 1260px;
+    background-color: #1E2939;
+    padding: 20px;
+    font-weight: 900;
+    color:white;
+}
+
+#rectangle2{
+    display: inline-block;
+    width:600px;
+    height: 1300px;
+    color:gray;
+    padding: 50px;
+    
+    
+
+}
+
+img{
+    height:280px;
+    width: 300px;
+    margin-top:20px;
+    margin-left: -20px;
+}
+
+ol.contacts > li{
+    font-size: 18px;
+    color: grey;
+    list-style-type: none;
+    font-weight: 400;
+    margin-left: -30px;
+}
+
+ul.skils > li{
+    font-size: 18px;
+    color: grey;
+    font-weight: 400;
+    list-style:none
+    
+}
+
+ul.skils li:before {
+    content: "•";
+    padding-right: 8px;
+    color: orange;
+    margin-left: -30px;
+}
+.left{
+    margin-bottom: -5px;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:black;
+}
+p{
+    font-size: 18px;
+    text-align: justify; 
+}
+.one{
+    color:black;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+h2, h3, h4{
+    font-size: 30px;
+    color:black;
+   
+    margin-bottom: 10px;
+   
+}
+
+ ol.list > li {
+    color:black;
+    font-weight: 800; 
+    line-height:22px;
+    
+ }
+ a:link{
+    color:grey;
+    text-decoration: none;
+    font-weight: 500; 
+ }
+ ul{
+    line-height:22px;
+ }

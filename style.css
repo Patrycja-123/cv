@@ -4,7 +4,7 @@ body{
 
 #container{
     width:1000px;
-    height: 1319px;
+    height: 1300px;
     margin-left: auto;
     margin-right: auto;
     border: 2px solid grey;
@@ -12,7 +12,7 @@ body{
 #rectangle1{
     float: left;
     width: 260px;
-    height: 1319px;
+    height: 1260px;
     background-color: #1E2939;
     padding: 20px;
     font-weight: 900;
@@ -22,7 +22,7 @@ body{
 #rectangle2{
     display: inline-block;
     width:600px;
-    height: 1319px;
+    height: 1300px;
     color:gray;
     padding: 50px;
     
